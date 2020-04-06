@@ -1,0 +1,2 @@
+rootProject.name='AndroidSandbox'
+include ':app'
